@@ -1,4 +1,5 @@
 # The Learning Agency Lab: PII Data Detection
+![header](https://github.com/JamesSuryaPutra/The-Learning-Agency-Lab-PII-Data-Detection/assets/155945814/39c1aa8d-8bba-41e0-a62b-b93d099a5456)
 
 # Overview
 The goal of this competition is to develop a model that detects personally identifiable information (PII) in student writing. Your efforts to automate the detection and removal of PII from educational data will lower the cost of releasing educational datasets. This will support learning science research and the development of educational tools.
@@ -17,4 +18,4 @@ For this competition, Vanderbilt has partnered with The Learning Agency Lab, an 
 Your work in creating reliable automated techniques to detect PII will lead to more high-quality public educational datasets. Researchers can then tap into the potential of this previously unavailable data to develop effective tools and interventions that benefit both teachers and students.
 
 # Evaluation
-Submissions are evaluated on micro Fβ, which is a classification metric that assigns value to recall and precision. The value of β is set to 5, which means that recall is weighted 5 times more heavily than precision.
+Submissions are evaluated on micro F-score (Fβ), which is a classification metric that assigns value to recall and precision. The value of β is set to 5, which means that recall is weighted 5 times more heavily than precision.
